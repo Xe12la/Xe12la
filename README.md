@@ -1,15 +1,19 @@
+#
+<div style="display: flex;">
+ <div style="flex: 1; text-align: right;">
+        <img src="AlexGitHUB.gif" alt="GIF" width="100%" height="300">
+    </div>
+</div>
+
+
 # 💫 About Me:
 <div style="display: flex;">
     <div style="flex: 1;">
-        I'm Alexander S. Auman, a dedicated and passionate graduating student from the beautiful land of Lanao del Norte, Mindanao. Balancing my life between work and studies, I've managed to stay committed to my education while gaining valuable experience in the real world.
+        I'm Alexander S. Auman, a dedicated and passionate graduating student from the Premier school of Cebu Technological University, Cebu City. Balancing my life between work and studies, I've managed to stay committed to my education while gaining valuable experience in the real world.
         <br><br>
-        - 📚 I'm currently learning some of the latest web development technologies including PHP and Laravel, as well as expanding my knowledge in other technologies
+        - 📚 I'm currently learning some of the latest web development technologies including PHP and Laravel, as well as expanding my knowledge of other technologies
         <br><br>
         - ⚡ In my free time, I read the news and explore possibilities for creating new programs or system projects, as well as love to watch new movies.
-    </div>
-    <div style="flex: 1; text-align: right;">
-        <!-- Replace the URL with the link to your gif or video -->
-        <img src="https://media.giphy.com/media/yoJC2GnSClbPOkV0eA/giphy.gif" alt="GIF" width="300">
     </div>
 </div>
 
