@@ -1,4 +1,3 @@
-#
 <div style="display: flex;">
  <div style="flex: 1; text-align: right;">
         <img src="AlexGitHUB.gif" alt="GIF" width="100%" height="300">
@@ -37,8 +36,5 @@
 
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Xe12la&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<hr/>
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
