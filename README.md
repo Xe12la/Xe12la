@@ -14,6 +14,7 @@
         <br><br>
         - ⚡ In my free time, I read the news and explore possibilities for creating new programs or system projects, as well as love to watch new movies.
     </div>
+ See my portfolio <a href="https://xe12la.github.io/Alexander_Portfolio/">Click or tap here.</a>
 </div>
 
 
