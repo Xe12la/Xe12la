@@ -1,7 +1,5 @@
 <div style="display: flex;">
- <div style="flex: 1; text-align: right;">
-        <img src="AlexGitHUB.gif" alt="GIF" width="100%" height="300">
-    </div>
+ <div style="flex: 1; text-align: right;"></div>
 </div>
 
 
